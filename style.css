@@ -4,7 +4,7 @@
   }
   
   body {
-    background-color: #f4b4e5;
+    background-color: slateblue;
     text-align: center;
   }
   
@@ -33,7 +33,7 @@
     border: none;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
-    color: #b0413e;
+    color:green;
     background-color: #fafad9;
   }
   
